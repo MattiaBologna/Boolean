@@ -1,0 +1,65 @@
+body {
+    background-image: url('background.jpg'); 
+    background-size: cover;
+  }
+  
+
+.container{
+    width: 700px;
+    margin: auto;
+    background-color: rgba(0, 0, 0, 0.50);
+    border-radius: 20px;
+    padding: 50px 50px 100px 50px
+    
+}
+
+header{
+    text-align: center;
+    color: #00DD00;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+}
+img{
+    width: 200px;
+}
+.slogan{
+    margin: 5px;
+}
+
+nav{
+    background-color: #00DD00;
+    padding: 10px;
+    text-align: center;
+}
+
+span{
+    font-weight: 500;
+    font-size: x-large;
+}
+
+section{
+    color: white;
+    margin-top: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#charge1{
+    color: #F5B453;
+    background-color: #F5B453;
+    border-radius: 5px;
+    width: 40%;
+}
+
+#charge2{
+    color: #1EC31E;
+    background-color: #1EC31E;
+    border-radius: 5px;
+    width: 60%;
+}
+
+#charge3{
+    color: #BE4141;
+    background-color: #BE4141;
+    border-radius: 5px;
+    width: 20%;
+}
